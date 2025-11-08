@@ -178,11 +178,11 @@ pipeline {
 
 | Screenshot | Description |
 |-------------|-------------|
-| ![1](./imgs/Screenshot_2025-11-08_214237.png) | Jenkins console output |
-| ![2](./imgs/Screenshot_2025-11-08_214254.png) | GitHub repository view |
-| ![3](./imgs/Screenshot_2025-11-08_214334.png) | EC2 instance dashboard |
-| ![4](./imgs/Screenshot_2025-11-08_214357.png) | Nginx folder structure |
-| ![5](./imgs/Screenshot_2025-11-08_214420.png) | Jenkins build success screen |
+| ![1](./imgs/success.png) | Jenkins console output |
+| ![2](./imgs/github.png) | GitHub repository view |
+| ![3](./imgs/ec2.png) | EC2 instance dashboard |
+| ![4](./imgs/vs.png) | VS Code structure |
+| ![5](./imgs/port.png) | Jenkins build success screen |
 
 ---
 

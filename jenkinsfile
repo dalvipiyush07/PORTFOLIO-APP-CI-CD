@@ -6,7 +6,7 @@ pipeline {
         DEPLOY_HOST = '3.110.209.161'          // <-- your EC2 public or private IP
         DEPLOY_PATH = '/var/www/html'         // <-- web root
         SSH_CREDENTIALS_ID = 'node-app-key'     // <-- Jenkins credentials ID
-        REPO_URL = ''
+        REPO_URL = 'https://github.com/dalvipiyush07/PORTFOLIO-APP-CI-CD.git'
         BRANCH = 'main'
     }
 

@@ -7,7 +7,7 @@ pipeline {
         DEPLOY_PATH = '/var/www/html'         // <-- web root
         SSH_CREDENTIALS_ID = 'node-app-key'     // <-- Jenkins credentials ID
         REPO_URL = 'https://github.com/dalvipiyush07/PORTFOLIO-APP-CI-CD.git'
-        BRANCH = 'main'
+        BRANCH = 'master'
     }
 
     stages {

@@ -178,7 +178,7 @@ pipeline {
 
 | Screenshot | Description |
 |-------------|-------------|
-| ![1](./imgs//Screenshot_2025-11-08_214237.png) | Jenkins console output |
+| ![1](./imgs/Screenshot_2025-11-08_214237.png) | Jenkins console output |
 | ![2](./imgs/Screenshot_2025-11-08_214254.png) | GitHub repository view |
 | ![3](./imgs/Screenshot_2025-11-08_214334.png) | EC2 instance dashboard |
 | ![4](./imgs/Screenshot_2025-11-08_214357.png) | Nginx folder structure |
